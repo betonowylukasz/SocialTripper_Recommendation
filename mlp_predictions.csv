@@ -1,0 +1,1091 @@
+name_2,age_user2,bmi_user2,location_user2,gender_user2,activities_user2,score
+Gi Chan Kim 1963 ()JOYRIDE,24,25.2,South Korea,male,['Walk'],0.99248886
+Edmund Wang,43,19.7,China,male,['Walk'],0.9911015
+VITAS A2-01,43,26.0,Kazakhstan,male,['Walk'],0.9819282
+Morteza GHasemi,22,24.1,Iran,male,['Ride'],0.96039826
+Tapio Katava,40,29.2,Finland,male,['Walk'],0.9505867
+Mustofa Hadi,27,19.6,Indonesia,male,['Walk'],0.9269721
+driving Chang,29,22.4,China,female,['Run'],0.92246604
+Mohamed Ismail,19,20.1,Egypt,male,['Run'],0.91608614
+Manos Mos,47,21.9,Greece,male,['Walk'],0.90449005
+Joachim Wunsch,37,19.7,Finland,male,['Run'],0.899046
+Kamil Romanowski,24,21.2,Poland,male,['Walk'],0.8990457
+Fiona Murray,27,23.9,USA,female,['Walk'],0.8979419
+Devin Shrode,31,25.0,USA,male,['Walk'],0.8946566
+Alex Schwab,33,24.7,USA,male,['Walk'],0.8894112
+Olajuwon Olakunle,13,20.3,Nigeria,male,['Walk'],0.88458955
+Andy Zaleski,30,25.2,USA,male,['Walk'],0.8840236
+Eric Grumke,32,25.7,USA,male,['Walk'],0.8835396
+Adam Bonehill,22,20.0,United Kingdom,male,['Walk'],0.8799835
+Morgan Hissim,36,21.4,USA,male,['Walk'],0.8725465
+Garry Mournian,22,23.4,United Kingdom,male,['Walk'],0.8649356
+Srikanth Guru,18,32.0,India,male,['Walk'],0.862591
+Annelie Plantado,44,22.1,USA,female,['Walk'],0.8590379
+Emily Reynolds,37,27.5,USA,female,['Walk'],0.8555893
+Julia Niemi,38,25.4,USA,female,['Walk'],0.8539857
+Srihari Polepeddi,21,23.8,India,male,['Walk'],0.85395837
+Tim Lawson,22,27.4,United Kingdom,male,['Walk'],0.85390574
+Murakami Taishi,46,25.3,Japan,female,['Walk'],0.85332775
+Tirumal Sunkara,36,27.9,USA,male,['Walk'],0.8485844
+Noa Hochman,39,24.4,USA,female,['Walk'],0.8448522
+ali almajed,24,20.1,Vietnam,male,['Run'],0.8447649
+Kyle Miles,22,33.8,USA,male,['Walk'],0.8419991
+Agathe Sd,39,28.0,USA,female,['Walk'],0.8419833
+rick villarreal,39,26.5,USA,male,['Walk'],0.84113
+Sean Lee,43,28.5,China,male,['Run'],0.8404412
+Joelle,31,24.3,USA,female,['Hike'],0.83993846
+Dolores Schutzman,37,28.2,USA,female,['Walk'],0.83742493
+Sun,44,28.2,China,male,['Run'],0.8372447
+Stephanie Leonard,39,28.4,USA,female,['Walk'],0.83684677
+Steve Ferg,22,18.0,USA,male,['Run'],0.8325813
+Gilles Blanchoin,25,24.5,France,male,['Walk'],0.8324554
+Sergio U2,40,27.7,USA,male,['Walk'],0.8317651
+Derrick Davis,40,27.6,USA,male,['Walk'],0.8317462
+Saeed Estaki,29,27.0,USA,male,['Walk'],0.8297394
+George Hall,25,33.9,Australia,male,['Run'],0.82969797
+PARAMVIR SINGH SAHI,46,18.4,India,male,['Walk'],0.8278323
+Deepesh Kumar2160,24,19.0,India,male,['Walk'],0.82689196
+Jason Glenn,30,27.2,USA,male,['Walk'],0.8262867
+Gabriel Lyon,34,25.1,USA,male,['Hike'],0.8243324
+Mago Yellarh,24,24.1,Brazil,female,['Walk'],0.82387143
+Himanshu Manchanda,34,19.7,India,male,['Walk'],0.82331043
+Teejay Pesco,22,26.3,Philippines,male,['Walk'],0.82231873
+Umesh Ghai,42,23.6,USA,male,['Walk'],0.81918585
+Alphonse Nguyen,41,29.5,USA,male,['Walk'],0.81915754
+Lindsay McCann,55,20.3,Canada,female,['Walk'],0.8183688
+Glen Patchet,37,30.5,Canada,male,['Walk'],0.81539184
+Vijay Sinnur,35,24.4,India,male,['Walk'],0.8150148
+Dave Taylor,33,28.2,USA,male,['Walk'],0.81330955
+Jelka Podkoritnik,50,19.9,Slovenia,female,['Walk'],0.81219333
+Ethan Montalto,42,27.1,USA,male,['Walk'],0.8111066
+Jeremy Murphy,34,28.5,USA,male,['Walk'],0.8110779
+Alejandra Hdz Flores,20,24.9,Mexico,female,['Walk'],0.80870104
+Shahriyar Karami,34,22.9,Iran,male,['Run'],0.80610704
+Emilio Veneziani,53,21.1,Italy,male,['Walk'],0.804831
+Jess ngel  Val,24,28.6,Mexico,male,['Walk'],0.8044298
+"Jon ""The Viking""",37,29.4,USA,male,['Walk'],0.80426025
+Subhodip Ghosh,19,18.4,India,male,['Walk'],0.801653
+Makeda S,24,27.7,USA,female,['Hike'],0.8013333
+Maribel Torres Velazquez,44,25.3,USA,female,['Walk'],0.79951483
+Surendar Krishnan,39,20.2,Malaysia,male,['Walk'],0.7966349
+Sam McFarlane,47,22.6,USA,male,['Walk'],0.79480964
+Joy Ford,47,24.8,USA,female,['Walk'],0.7943243
+Karim Fareh,26,31.3,France,male,['Walk'],0.7936122
+Vasant Salian,39,24.4,India,male,['Walk'],0.78911275
+Rebecca Walker,31,28.2,USA,female,['Walk'],0.78868127
+Colette Kirkwood,36,29.3,USA,female,['Walk'],0.78576857
+Enma Attias,38,25.8,USA,female,['Hike'],0.78541946
+Nishad Kulkarni,40,24.0,India,male,['Walk'],0.78499526
+Hannah Marut,23,30.6,USA,female,['Walk'],0.78303
+Gosai  Cyclohead .,41,24.8,India,male,['Walk'],0.78259724
+Alyssia Stevenson,45,28.0,USA,female,['Walk'],0.7823004
+Chinedu Ogueri,37,30.0,USA,male,['Walk'],0.7800295
+Radu Mrfu,43,20.7,Italy,male,['Walk'],0.77873033
+StJohn Dunne,38,30.3,USA,male,['Walk'],0.7775087
+Rendi Wijayanto  ARCC,43,21.9,Indonesia,female,['Run'],0.77646786
+Charalampos Giavris,39,33.4,Greece,male,['Walk'],0.7757623
+Andy Moog,45,31.1,USA,male,['Walk'],0.7755665
+Nick Ellem,40,20.0,Australia,male,['Walk'],0.77343816
+Brooke Waites,36,29.6,USA,female,['Walk'],0.77278876
+Sophie Tobert,46,27.0,USA,female,['Walk'],0.7698912
+Diptii S,14,20.0,India,female,['Walk'],0.7659994
+Marcos Austria Mireles,19,31.5,Mexico,male,['Walk'],0.76516247
+Trn Hong Nhn,32,21.2,Vietnam,male,['Run'],0.76403165
+LP Landry,46,27.6,Canada,male,['Walk'],0.7628357
+Gopala Rao J,31,18.6,India,male,['Walk'],0.7624705
+Graciela  Chavez,49,25.7,USA,female,['Walk'],0.761783
+Lise-Marie Ferguson,32,32.2,Canada,female,['Hike'],0.761719
+Phm Dng,28,19.7,Vietnam,male,['Run'],0.75902736
+"Sukhwinder Kaur Dhillon  Hoshiarpur, Punjab. Ultra  Marathon Runner",42,20.2,Canada,male,['Walk'],0.75818616
+Grace Ochs,34,29.5,USA,female,['Walk'],0.75595695
+Chavely Calero,45,31.8,Cuba,female,['Walk'],0.7542598
+Luis Uesu,30,31.5,Peru,male,['Walk'],0.75166464
+Stephane  Robitaille,27,32.7,Canada,male,['Ride'],0.7485935
+Igor K,52,28.6,Russia,male,['Run'],0.74712884
+Haris Rasyid,32,18.8,Indonesia,male,['Run'],0.7465193
+Kelly Patchet,46,22.4,Canada,female,['Walk'],0.74647003
+Sonny Navarro,40,17.4,Philippines,male,['Walk'],0.7451054
+Karen Hernandez,48,27.9,USA,female,['Walk'],0.74435705
+Jackie Chan,20,22.6,Malaysia,male,['Walk'],0.74036986
+Jeannette Petersen,39,17.2,Denmark,female,['Walk'],0.738099
+Brett McGill,22,28.1,USA,male,['Run'],0.73757243
+Chunkie Magee III,35,30.2,USA,female,['Walk'],0.7344344
+Pamin S,42,23.0,Thailand,male,"['Run', 'Walk']",0.7330832
+davide novali,47,22.9,Italy,male,['Walk'],0.7301095
+Lucy Jobson-Wood,44,26.3,Thailand,female,['Walk'],0.72578835
+baptiste Guillot,46,33.6,France,male,['Walk'],0.7232873
+Juliana Marszalek,51,26.7,USA,female,['Walk'],0.723162
+Edcarlos Lollo,18,24.7,Brazil,male,['Walk'],0.72094524
+Clayton Eck,28,19.5,USA,male,['Run'],0.7202927
+Miriam Sandeen,36,21.1,USA,female,['Run'],0.7200588
+Moses Jackson Sikazwe,18,23.0,Zambia,male,['Walk'],0.7192397
+Alison Goldsmith,22,27.5,USA,female,['Run'],0.7155175
+Maple D'Angelo,41,29.0,USA,female,['Hike'],0.7137176
+Michael Makowski,29,31.2,USA,male,['Walk'],0.70995736
+Ronald Munaiseche,29,25.3,Indonesia,male,['Run'],0.70728296
+Jay Rothenburg,36,26.1,Canada,male,['Hike'],0.7046892
+Michael Rainey,38,19.7,USA,male,['Run'],0.70341974
+kaam,23,20.4,Indonesia,male,['Ride'],0.7014576
+John Cianca,35,20.6,USA,male,['Run'],0.7007421
+Aleksander Presekar,41,21.7,Slovenia,male,['Hike'],0.7004804
+Luis Santamassino,33,20.8,USA,male,['Run'],0.69894916
+Adrian Gonzalez,36,19.4,USA,male,['Run'],0.6964331
+Natalya Koronchevska,51,28.6,Canada,female,['Walk'],0.6909444
+Viv Law,45,30.1,Australia,female,['Walk'],0.6902699
+Nur Misuari Bin Kipli,30,20.7,Malaysia,male,"['Run', 'Walk']",0.686807
+Mirko Kleintz,26,24.5,Germany,male,['Walk'],0.68545663
+Fabrice M  -,53,30.0,Greece,male,['Walk'],0.6802204
+Jesus Gutierrez,25,24.0,Mexico,male,['Walk'],0.6798235
+Sonia Guior,42,33.0,USA,female,['Walk'],0.67823225
+JARRYD DANIEL ZOGHBY,23,28.4,RSA,male,['Walk'],0.6745271
+Molly Hitchmough,41,20.3,United Kingdom,female,['Walk'],0.6728938
+Philippe P,40,32.9,France,male,['Walk'],0.67185843
+Ezequiel Rodriguez,24,27.7,Dominican Republic,male,['Run'],0.66906714
+Genessa Younger,48,19.4,USA,female,['Run'],0.66840035
+Mandy Gisbourne,28,27.9,Costa Rica,female,['Walk'],0.6662434
+b e n j a m  n,41,23.9,USA,male,"['Run', 'Walk']",0.66411746
+Cyril Pelleteret,41,34.3,France,male,['Walk'],0.65964264
+Flannery Wilson,54,31.7,USA,female,['Walk'],0.65776384
+Devin Jassman,41,24.2,USA,male,"['Run', 'Walk']",0.6535883
+ellie wakeman,53,20.2,United Kingdom,female,['Walk'],0.6535108
+Ruth Taylo,40,27.0,USA,female,"['Run', 'Walk']",0.65332156
+Thomas Bellevenue,46,28.5,France,male,['Walk'],0.6498636
+Luis Escobar V.,26,25.1,Ecuador,male,['Walk'],0.6498004
+Steven Scott,36,32.4,USA,male,['Walk'],0.64967835
+Paul Thomas,47,25.9,USA,male,['Hike'],0.64920545
+Mike Collins,27,34.1,USA,male,['Walk'],0.64702886
+Jackie Rawling,39,21.1,United Kingdom,male,['Walk'],0.6433035
+Brodi LeBlanc,38,33.0,USA,male,['Walk'],0.6429899
+Alexis Watson,45,23.8,USA,male,"['Run', 'Walk']",0.6428218
+Franois Maupetit,53,25.9,France,male,['Walk'],0.64220613
+_therunningboy,23,22.9,India,male,['Run'],0.64099735
+HANS LINDEROTH,48,27.1,USA,male,['Hike'],0.6381871
+Stewart Hurlstone,45,19.0,United Kingdom,male,['Walk'],0.63788134
+N Knue,30,33.5,USA,female,['Walk'],0.6370422
+Martin Barrera,32,32.0,USA,male,['Walk'],0.63656664
+Amelia Greef,27,31.5,United Kingdom,female,['Walk'],0.6227879
+Eugen Fink,40,23.1,Japan,male,['Run'],0.61964786
+Pavel Puiu,47,22.1,Romania,male,['Run'],0.6194463
+Anna Fedyszyn,35,22.7,Poland,female,['Walk'],0.61912674
+Tommy Leitch,32,23.7,United Kingdom,male,['Walk'],0.61735684
+Karl Apps,32,18.4,United Kingdom,male,['Walk'],0.6173408
+Mike Wells,39,33.7,USA,male,['Walk'],0.61669314
+Jeanette Flynn,42,21.5,United Kingdom,female,['Walk'],0.6155708
+Brentt  Ramharter Jr,25,27.3,USA,male,['Run'],0.6153627
+Sarah C,48,25.6,France,female,['Walk'],0.614868
+Ste Garratt,33,25.2,United Kingdom,male,['Walk'],0.61438584
+Martin Arnholz,42,28.1,France,male,['Walk'],0.61429524
+Roberto Gonzalez,37,29.3,USA,male,"['Walk', 'Ride']",0.61363715
+Martin Rottondi Oliveti,44,26.0,Germany,male,['Walk'],0.6129351
+Harry Spiers,44,26.1,Germany,male,['Walk'],0.6127708
+Wendy Roberts,33,21.8,United Kingdom,female,['Walk'],0.61240107
+Hamish  Lucas,35,33.9,Thailand,male,['Walk'],0.6120483
+Bella Ziolek,34,22.4,USA,female,['Run'],0.61163
+Fabio Freydier,43,26.8,France,male,['Walk'],0.6115917
+Megan Aird,54,32.7,Canada,female,['Walk'],0.61002564
+Yann Derrien,37,29.7,France,male,['Walk'],0.6059787
+Christoph Hesse,45,24.9,Germany,male,['Walk'],0.60502297
+Franksua Valenzuela,20,21.9,Peru,male,['Run'],0.6044246
+Junior Pereira,28,26.7,Brazil,male,['Walk'],0.6035071
+X. Contender,32,22.4,United Kingdom,male,['Walk'],0.60311985
+Jen Simpson,35,22.4,United Kingdom,female,['Walk'],0.6027752
+W A,45,26.4,Germany,male,['Walk'],0.60253894
+Vikki Rule,30,24.5,United Kingdom,female,['Walk'],0.6001862
+Nate Apathy,28,22.1,USA,male,['Run'],0.59982073
+Lisa Saunders,33,22.8,United Kingdom,female,['Walk'],0.59910184
+Nilesh Kurmi,24,19.6,India,male,"['Walk', 'Ride']",0.5987136
+Tan Kian Hong,24,24.2,Singapore,male,"['Run', 'Ride']",0.59734344
+Kane Kyan,33,20.0,Singapore,male,['Run'],0.59646416
+Leilani R,32,33.8,USA,female,['Walk'],0.59633654
+Benji.G,43,29.5,Germany,male,['Walk'],0.5949465
+Kai Rees,30,22.2,United Kingdom,male,['Walk'],0.59418035
+M. Taufiq Nurdin,33,19.0,Indonesia,male,['Ride'],0.593394
+Mark Willcocks,41,21.9,United Kingdom,male,['Walk'],0.5932203
+Brianne Sabino,33,22.6,USA,female,['Run'],0.5931988
+Marie Jeanne Paramo,50,24.5,France,female,['Walk'],0.5931464
+Dominic Ellul,43,26.2,Malta,male,['Walk'],0.59284407
+layne richter,36,33.4,USA,male,['Walk'],0.59197307
+Catherine Brampton,37,22.4,United Kingdom,female,['Walk'],0.5890705
+Adrian Borma,46,19.3,Romania,male,['Ride'],0.5870674
+Catie Bertges,32,22.8,USA,female,['Run'],0.5838825
+Niko Arwenda,25,25.5,Indonesia,male,['Ride'],0.58382046
+Miroslav Galk,45,23.5,Slovakia,male,['Walk'],0.5835259
+ChiewKhuen Wong,32,26.1,Australia,male,['Run'],0.5826092
+Shiv Patil,18,19.2,India,male,['Run'],0.57877195
+Audrey March,46,26.2,Canada,female,['Hike'],0.57765794
+H. Paul Choi (FRC),32,22.3,USA,male,['Run'],0.5749913
+Jonny Stephens thisisjonnystephens,34,29.3,Australia,male,['Run'],0.57401395
+Pankaj Kshirsagar,25,25.0,India,male,"['Walk', 'Ride']",0.5738802
+laurent BLANCHARD,24,25.8,France,male,['Run'],0.5731161
+George Sarris,37,32.2,USA,male,['Hike'],0.57260114
+Stevie Joy,36,23.7,United Kingdom,male,['Walk'],0.57142454
+sebastien GIRAUD,36,23.9,United Kingdom,male,['Walk'],0.5691215
+Michelle Ruge Pug_Mamma,25,28.6,USA,female,['Run'],0.5649042
+Agus May,39,26.9,Indonesia,male,['Run'],0.56411123
+Ciara Ryan,40,34.5,USA,female,['Walk'],0.563823
+Laura  Carrasco,32,23.2,USA,female,['Run'],0.5612859
+Oscar Eduardo Zambrano Mena,35,29.1,Colombia,male,['Walk'],0.5576907
+Kailey Lewis,41,20.6,USA,female,['Ride'],0.5560637
+Alice Wilpert,44,25.0,France,female,['Walk'],0.55514616
+Corinne Wong,31,23.3,USA,female,['Run'],0.5534481
+Stefen Otot,31,18.1,Indonesia,male,['Ride'],0.5530763
+B Shergold,37,24.8,United Kingdom,male,['Walk'],0.55195415
+Juraj Struhar,38,26.7,Slovakia,male,['Walk'],0.55047435
+sarah stinson,39,34.5,USA,female,['Walk'],0.5492583
+Ryan Krolak,38,34.6,USA,male,['Walk'],0.54873693
+Will Lopez,46,26.3,USA,male,"['Run', 'Walk']",0.547023
+Fabrice Josse,38,26.8,France,male,['Walk'],0.54577917
+Vanessa Inderkum,42,21.7,Switzerland,female,['Walk'],0.54081225
+Paul Ladner,39,23.3,United Kingdom,male,['Walk'],0.54000145
+Gary Kliegman,44,34.3,USA,male,['Hike'],0.5383716
+Sophie Jones,38,23.8,United Kingdom,female,['Walk'],0.5343381
+Richard Deng,25,27.1,USA,male,['Ride'],0.5336124
+Laura Serdiuk,24,29.3,USA,female,['Ride'],0.5318304
+Ryan Dedo,29,23.3,USA,male,['Run'],0.53032964
+Sebastien Vesse,26,22.6,France,male,['Run'],0.5288046
+Karunakaran Mathivanan,28,16.5,India,male,['Run'],0.52800274
+Graeme Taylor,38,26.2,United Kingdom,male,['Walk'],0.5268206
+Simon Beignier,32,28.9,France,male,['Walk'],0.5261218
+Mahomed arshad,38,32.5,Saudi Arabia,male,['Walk'],0.522566
+Bernadeta Stecyk,28,30.0,Poland,female,['Walk'],0.51862204
+Ezhilarasi Ramesh,29,15.9,India,female,['Run'],0.5170957
+Marine Grgch Lc2l,39,26.7,France,female,['Walk'],0.5163169
+Anl zer,45,26.4,Netherlands,female,['Walk'],0.51513994
+Marc Sznajderman,31,20.2,USA,male,['Ride'],0.51461864
+Michaela Strydom,39,31.6,RSA,female,['Walk'],0.51332873
+Jean-Michel Poirier,42,23.9,France,male,['Walk'],0.5131474
+jayme Elizabeth,36,23.5,USA,female,['Run'],0.50999624
+Sheema Bansal,30,20.1,India,female,['Run'],0.5098121
+Tony Baker,42,23.4,United Kingdom,male,['Walk'],0.5059238
+Wez Pinlac  AVRCIESWCS,39,20.3,USA,male,['Ride'],0.50590587
+Mathieu BREBION,56,34.5,Greece,male,['Walk'],0.5039805
+Annelise Wells,33,27.0,United Kingdom,female,['Walk'],0.50179386
+Harold Valencia,42,21.7,Thailand,male,['Run'],0.49693885
+Fitrial Kamal,38,29.3,Indonesia,male,['Run'],0.49661842
+Kenzie  Lemieux,29,27.8,USA,female,['Camping'],0.49591872
+Lauren Grace Perry,35,35.1,USA,female,['Walk'],0.49549586
+Bradford LaRiviere,35,34.9,USA,male,['Walk'],0.49541697
+Rachel Moree,41,30.2,USA,female,['Sport'],0.49519902
+Benjamin Curmer,46,22.9,France,male,['Walk'],0.49466872
+Tanguy Mts,42,23.5,France,male,['Walk'],0.49130625
+ARNOWLD ARLEDERHT ARENAS AMAYA,33,26.6,Colombia,male,['Walk'],0.4909573
+Janine Kaspers,57,24.3,Germany,female,['Walk'],0.4893975
+Irina,57,24.3,Germany,female,['Walk'],0.4893975
+Karnshon C,32,20.7,Thailand,male,['Run'],0.4871397
+Michelle Hall,38,26.4,United Kingdom,female,['Walk'],0.48518836
+Christy Peterson,36,23.9,USA,female,['Run'],0.48436272
+SR Lalit Kandpal,22,22.1,India,male,['Ride'],0.48343697
+Matt Morris,43,24.1,United Kingdom,male,['Walk'],0.4819066
+Catalina Norena,26,28.1,USA,female,['Ride'],0.4795519
+Adri Termes,52,21.9,Spain,female,['Walk'],0.47567713
+SUPREMACA DE LA VERDAD - EL LOBO SAN ROGGER,24,23.9,Peru,female,['Ride'],0.47250286
+Luis Claudio Alves Pereira,34,28.7,Brazil,male,['Walk'],0.47171268
+Nicole Anderson,43,23.7,USA,female,['Run'],0.46906802
+Christian Stewart,34,23.9,USA,male,['Run'],0.46843818
+Katty Luu,30,28.8,Ecuador,female,['Walk'],0.46741056
+Joseph Wright,34,24.0,USA,male,['Run'],0.46677086
+Martin Castillo(ciclismo),23,24.4,Mexico,male,['Ride'],0.46474138
+Kevin Cameron,27,26.8,USA,male,['Run'],0.46453685
+Ryan McFadden,34,24.2,USA,male,['Run'],0.46343794
+Tony Zvezdakoski,36,28.2,Australia,male,['Run'],0.4583521
+Freddy Mambru Ciprian,35,22.5,Dominican Republic,male,['Hike'],0.4564636
+Jennifer Castro,24,34.3,USA,female,['Run'],0.45610538
+Joris Rivier,41,23.0,France,male,['Walk'],0.4552788
+Annabell Von Hanxleden,48,20.2,Germany,female,['Hike'],0.45483494
+Courtney Gifford,43,23.9,USA,female,['Run'],0.45173004
+James Simonsen,34,24.8,USA,male,['Run'],0.4506502
+kerry hales,37,23.0,USA,female,['Ride'],0.44988734
+Yuvraj Giri,30,23.0,India,male,"['Walk', 'Ride']",0.44854146
+Kaelan S,36,24.0,USA,male,['Run'],0.4479682
+taygray coops,44,23.3,USA,male,['Run'],0.44738182
+Tadie Abeki,42,26.4,United Kingdom,male,['Walk'],0.44494885
+Charlotte King,42,25.4,United Kingdom,female,['Walk'],0.44373548
+Craig Parker,45,22.4,United Kingdom,male,['Hike'],0.44293085
+Lisa Skimins,41,26.1,United Kingdom,female,['Walk'],0.44275397
+Matt Noble,46,24.3,United Kingdom,male,['Walk'],0.4423984
+ANDREW CABOTE,35,24.6,USA,male,['Run'],0.44190955
+Joanne Ramirez,38,23.4,USA,female,['Ride'],0.44031146
+Divakar Rajput,32,24.5,India,male,['Run'],0.44021156
+Jordan Gamble,33,30.0,Canada,male,['Run'],0.43851942
+Jo Griffiths,42,25.6,United Kingdom,female,['Walk'],0.43808618
+Maria Nep Cabral Cabral,51,24.6,Portugal,female,['Walk'],0.43597052
+Rodrigo Mahecha,21,26.6,Colombia,male,['Ride'],0.4354072
+Paul Clarke,41,27.3,United Kingdom,male,['Walk'],0.43326733
+Colleen McConville,32,28.7,Canada,female,['Run'],0.43126723
+Nicholas Higgins -PigPenBoys,32,24.2,USA,male,['Ride'],0.43116605
+Cecilia Tran,26,26.8,Vietnam,female,['Run'],0.43032816
+Hemendra Sharma,22,24.4,India,male,['Ride'],0.4278576
+Andy Vickers,39,28.7,United Kingdom,male,['Walk'],0.4275184
+Stephanie Franklin,40,24.6,USA,female,['Run'],0.42684674
+Michael Marlovics,48,23.1,Austria,male,['Walk'],0.4264617
+Sergio A. Teixeira,29,23.8,Brazil,male,['Walk'],0.4251247
+Amy Hutchison,42,24.4,USA,female,['Run'],0.4245709
+Brett Bucci,35,25.5,USA,male,['Run'],0.42449135
+Shelley S-W,39,27.9,United Kingdom,female,['Walk'],0.42307174
+jeb hamilton,31,25.3,USA,male,['Run'],0.42209747
+Callum Bednall,36,29.0,United Kingdom,male,['Walk'],0.42096335
+Andrew Berlinberg,34,24.7,USA,male,['Ride'],0.42086563
+Elise Gelbard,36,25.5,USA,female,['Run'],0.42066568
+Jevon Mason,38,24.3,USA,male,['Run'],0.42043456
+Andrea Zaugg,50,16.0,Switzerland,female,['Walk'],0.41914493
+Barbara Mondaini,46,29.2,Italy,female,['Walk'],0.41627008
+Jack Heier,32,25.2,USA,male,['Ride'],0.41438746
+Luis Gallardo,53,27.8,Spain,male,['Walk'],0.4140842
+Ken Smith,33,22.8,USA,male,['Ride'],0.4140495
+Trcio Sousa,47,28.4,Portugal,male,['Walk'],0.4134258
+Chori Trocha Rios,36,24.9,Colombia,male,['Walk'],0.41334823
+Andrea Garcia,41,27.4,United Kingdom,female,['Walk'],0.41267443
+Emma Reed,38,25.2,USA,female,['Run'],0.41254786
+Kassie Sweeney,27,28.5,USA,female,['Ride'],0.41207856
+William Mcalpine,39,24.4,USA,male,['Run'],0.4112891
+Andy Goessmann,36,26.0,USA,male,['Run'],0.40642637
+Zach Self,45,23.8,USA,male,['Run'],0.40604174
+Aleksandar A,47,26.6,Austria,male,['Walk'],0.4037536
+Franck Deville,35,23.0,France,male,['Walk'],0.4033492
+Tohemi  ZOUAOUI,30,22.2,France,male,['Walk'],0.40143412
+Madeline Ruchelman,38,25.8,USA,female,['Run'],0.39909685
+Brian Verfuerth,38,24.9,USA,male,['Run'],0.39696226
+Guadalupe Limon,31,34.7,USA,female,"['Run', 'Walk']",0.39528292
+Luka Rivera,38,25.4,USA,male,['Run'],0.39519078
+Miles Clements,27,29.0,USA,male,['Ride'],0.39424145
+Rakesh Ranjan,33,31.2,India,male,['Sport'],0.39386398
+Alex Stuebs,38,25.8,USA,male,['Run'],0.39377546
+Abdelhak Elhaila,30,18.0,Morocco,male,['Ride'],0.39304402
+Peter W.,27,29.4,USA,male,['Ride'],0.39114973
+Marcio Teixeira  MTB  SPEED,38,28.9,Brazil,male,['Walk'],0.38979548
+G2GiannettiDemocrat  G2MI USA,18,33.2,USA,male,['Ride'],0.38896787
+Lem W,36,24.7,USA,male,['Ride'],0.38834372
+Yonatan Kehati,29,31.3,Israel,male,['Run'],0.3874993
+Jack Zatorski,42,24.6,USA,male,['Run'],0.3874522
+victorintense,37,28.3,Ukraine,female,['Run'],0.38548833
+Ola Ekberg,47,29.0,Sweden,female,['Walk'],0.3828552
+Edilson Clarinete,27,22.8,Brazil,male,"['Run', 'Walk']",0.38136083
+Nuno Miguel Saraiva,43,25.5,Portugal,male,['Walk'],0.38008574
+Andrs Galindo,19,28.2,Mexico,male,['Run'],0.37913543
+Guillem Montagut,32,35.2,Spain,male,['Walk'],0.37871307
+Jeffrey Nyburg,39,26.7,USA,male,['Run'],0.37712386
+Sou Matsumoto,42,24.9,USA,male,['Run'],0.3761993
+Lindsay Siefert,41,25.8,USA,female,['Run'],0.37346408
+Tom Doyle,42,25.0,USA,male,['Run'],0.37247708
+Joshua Hennessy,37,27.0,USA,male,['Run'],0.37033632
+Emma Klauber,36,28.8,United Kingdom,female,['Walk'],0.36940026
+Andrea Paramithiotti,55,21.4,Italy,female,['Run'],0.36838675
+Eve Hush,38,26.5,USA,female,['Ride'],0.36828846
+Scott Collins,38,27.1,USA,male,['Run'],0.3670871
+Conrado DallIgna,35,27.2,Brazil,male,['Walk'],0.3670771
+Bram Beecroft,31,33.5,United Kingdom,male,['Walk'],0.36684948
+Karen Fernandez,40,27.0,USA,female,['Run'],0.36663386
+Robert Moore,44,37.3,USA,male,['Hike'],0.36643055
+Sam Chorley,32,29.9,United Kingdom,male,['Walk'],0.3663628
+Billy Brinton,40,25.6,USA,male,['Run'],0.36600703
+Christina Bush,57,24.1,United Kingdom,female,['Walk'],0.3636543
+Raymond O,43,25.1,USA,male,['Run'],0.36353967
+Caitlin Gorey,42,25.9,USA,female,['Run'],0.36332604
+mary hirst,40,29.4,United Kingdom,female,['Walk'],0.36303514
+Paul Morrow,45,24.8,USA,male,['Run'],0.36209357
+Andrew Alexander,41,26.4,Canada,male,['Run'],0.36195862
+Eduardo Teixeira,57,26.1,Portugal,male,['Hike'],0.36171708
+Joo Aurlio Da Silva  Gonalves,46,27.4,United Kingdom,male,['Walk'],0.3611884
+Shelley Christmas,47,26.2,United Kingdom,female,['Walk'],0.36113125
+Bob Jones,37,27.7,USA,male,['Ride'],0.3604211
+Sam  Morgan,34,27.1,USA,male,['Run'],0.35990116
+Dileep KUMAR,40,26.3,United Arab Emirates,male,['Run'],0.358944
+Patrick Dahn,27,33.1,USA,male,['Ride'],0.3588123
+FRANCIELLI ALENCAR,46,29.0,Brazil,female,['Walk'],0.35830298
+Daniel Vanhouche,37,21.8,France,male,['Walk'],0.35825464
+Aleksandr Krymskiy,34,28.4,USA,male,['Water Activities'],0.35626957
+Danimal Edwards,50,25.9,United Kingdom,male,['Walk'],0.35616022
+Danny Green,31,37.0,United Kingdom,male,['Walk'],0.3549872
+Babi Monteiro,40,23.3,Brazil,female,['Walk'],0.35470545
+Maurya Schuermann Kenny,27,30.8,Ireland,female,['Walk'],0.35350105
+Tony Holloran,28,26.5,USA,male,['Ride'],0.35299224
+Dorrie Peralta,44,25.0,USA,female,['Ride'],0.35284805
+Javi Manibardo,46,28.2,Spain,male,['Walk'],0.34907377
+Chris Duke,39,27.6,USA,male,['Ride'],0.348709
+Jefferson Araujo,39,23.8,Brazil,male,['Walk'],0.3483828
+Don,40,27.4,USA,male,['Ride'],0.3467256
+Magdalena Sidor,34,27.2,USA,female,['Run'],0.34556887
+Timothy Stein,41,27.8,USA,male,['Run'],0.34447658
+Chris Thubron,43,29.2,United Kingdom,male,['Walk'],0.34423172
+Sukkeun Kim,40,26.9,USA,male,['Ride'],0.34302798
+Jason Walsh,51,26.0,United Kingdom,male,['Walk'],0.34301418
+Mara Esparragosa,28,27.1,Spain,female,['Walk'],0.34298143
+N Gia,49,24.1,USA,female,['Ride'],0.34277216
+Judith Kent,34,23.7,New Zealand,female,['Walk'],0.34241262
+Katia Mambelli,51,26.8,Italy,female,['Hike'],0.34185937
+B Hartman,28,31.0,USA,male,['Run'],0.34164986
+Katie Bisbee,38,27.9,USA,female,['Ride'],0.34149924
+Kate W,43,28.9,United Kingdom,female,['Walk'],0.34090015
+Viviana P,42,27.5,USA,female,['Run'],0.3396755
+all_the_trail Batres,39,27.9,USA,male,['Run'],0.33899122
+Dani Soriano Collantes,41,21.4,Spain,female,['Walk'],0.33640027
+Taylor Bugh,41,27.9,USA,female,['Run'],0.335951
+Rodrigo Barcellos,34,25.1,Brazil,male,['Walk'],0.33561167
+Jackson Hendrick,39,28.3,USA,male,['Ride'],0.33480886
+Adam Alidra,43,24.3,USA,male,['Ride'],0.33343184
+Giorgia Leoni,37,28.1,USA,female,['Run'],0.33230346
+Remy PICHAUD,18,27.3,France,male,['Run'],0.33219543
+Abdlkadir Ergin,33,30.1,Turkey,male,['Ride'],0.3320891
+Safa Amani,28,21.0,United Kingdom,female,['Run'],0.33050737
+Hans-peter Stockmann,25,33.0,Germany,male,['Hike'],0.3298108
+Jacob Pancoast,32,27.3,USA,male,['Run'],0.3288171
+Joe Mattingly,28,29.0,USA,male,['Ride'],0.32837754
+Anderssen Santos,42,23.8,Canada,male,['Run'],0.3280516
+Ashton Honeycutt,38,29.1,USA,male,['Ride'],0.326513
+Maddy Isaac,43,29.4,United Kingdom,female,['Walk'],0.32625115
+Justin Fiset,44,27.6,Canada,male,['Run'],0.32594946
+Mirco Grigoletto,41,28.1,Switzerland,male,['Walk'],0.3248895
+Edson Marques,33,24.1,Brazil,male,['Walk'],0.32478234
+Isabel Izzy Rivera,43,27.7,USA,female,['Run'],0.32439405
+Phoebe Wu,30,27.0,USA,female,['Ride'],0.32420173
+jesus paiz,20,22.2,Mexico,male,['Ride'],0.3239533
+Inday Musumeci,40,28.3,USA,female,['Run'],0.32361704
+Ryan Landers,50,24.7,USA,male,['Run'],0.32326388
+Reina fernandez,29,27.8,USA,female,['Ride'],0.32235518
+Steven Cortez,34,28.3,USA,male,['Ride'],0.3217423
+Molins,33,19.0,Philippines,male,['Run'],0.32152578
+Bev Morris,42,30.0,United Kingdom,female,['Walk'],0.32083222
+Skyler Maroste,34,27.9,USA,male,['Run'],0.31968316
+Patricia Isoton,25,21.7,Brazil,female,['Ride'],0.3191987
+Jorge Medina,35,28.7,USA,male,['Ride'],0.31820107
+Graham Karnes,49,25.3,USA,male,['Run'],0.3180079
+Phoebe Gurden,39,20.0,United Kingdom,female,['Run'],0.31772658
+Fransix Rene,36,30.5,Canada,male,['Run'],0.31688082
+David Choules,43,31.0,United Kingdom,male,['Walk'],0.31551325
+Channing Miller,38,33.9,USA,male,"['Run', 'Walk']",0.31543243
+Christine Herbrecht,31,19.2,Belgium,female,['Walk'],0.31317464
+Ollie Hansen,36,36.8,Australia,female,['Run'],0.31252924
+Jason Beckner,40,28.7,USA,male,['Run'],0.3121718
+Jeff Bollman,36,28.5,USA,male,['Run'],0.31068552
+mikel Manzanos,38,31.3,Spain,male,['Walk'],0.30986097
+Rita Kinnebrew,31,27.5,USA,female,['Ride'],0.30980414
+Nick Atkins,44,26.5,USA,male,['Run'],0.30894223
+keith sherlock,41,26.9,United Kingdom,male,['Hike'],0.30852565
+Jim Buckley,27,38.7,USA,male,['Run'],0.30832675
+Markese Lee,42,28.9,USA,male,['Run'],0.30692935
+Guy Smiley,41,28.9,USA,male,['Run'],0.3060108
+Ryan Allain,41,29.6,Spain,male,['Walk'],0.3042519
+Xander Fong,46,26.3,USA,male,['Run'],0.3040783
+Alan Houchot,27,27.3,France,male,['Sport'],0.30380017
+Mack Nicholson,44,25.8,USA,male,['Ride'],0.3014266
+Shawn McDonald (MTCCNJ),41,29.4,USA,male,['Ride'],0.30106977
+Mel Hensler,37,19.0,United Kingdom,male,['Run'],0.30078188
+Marc Marc,37,26.3,Singapore,male,['Ride'],0.29927415
+Francisco Javier FrontRunners,47,24.1,USA,male,['Ride'],0.2992417
+Christopher Dodds,47,23.3,Canada,male,['Run'],0.29866537
+Lawrence Allie,40,29.4,USA,male,['Run'],0.29853135
+Andrew Muir,29,20.4,United Kingdom,male,['Run'],0.2984822
+Klarissa Velasco,39,30.2,United Kingdom,female,['Walk'],0.29773024
+Mario Skaric,28,32.5,Croatia,male,['Ride'],0.2970947
+Thien Nguyen,37,29.0,USA,male,['Run'],0.2967924
+Jeremy Webb,43,28.1,USA,male,['Ride'],0.29665762
+Dharanikumar.N,35,20.1,India,male,['Ride'],0.2960557
+Salvatore Di Mauro,38,20.7,Italy,male,['Run'],0.2954595
+Steve Lockhart,46,28.5,Canada,male,['Run'],0.29457286
+Anna Brooke,45,29.7,United Kingdom,female,['Walk'],0.2945511
+Ferran Lasarte,37,21.6,Spain,male,['Walk'],0.29345888
+Bennett Kinney,45,27.5,USA,male,['Run'],0.29213962
+Faith Gette,45,13.7,Canada,female,['Run'],0.2920997
+Nata Llid,42,28.9,Spain,female,['Walk'],0.29148602
+Henry Fontana,19,30.9,Brazil,male,['Run'],0.29135484
+Philippe Henderson,39,22.2,Germany,male,['Run'],0.29103023
+Jamie Trinh,51,24.7,Canada,female,['Run'],0.2907871
+Derrick Dlouhy,32,28.1,USA,male,['Run'],0.29049623
+Justin Faires,29,28.6,USA,male,['Ride'],0.29047337
+Peter Snow,42,29.4,USA,male,['Run'],0.2902324
+Cody Mandel,52,25.2,USA,male,['Run'],0.28880396
+Craig Sherritt,49,26.7,Canada,male,['Run'],0.2873596
+Shannon O'Neill,49,25.2,Canada,female,['Run'],0.28698668
+Mary Brass,38,29.3,USA,female,['Run'],0.28645495
+Raghavendra Godse,13,25.9,India,male,['Ride'],0.28585157
+Myriam Guiraud,44,20.4,Spain,female,['Hike'],0.2858269
+Kristy Cage (MTDFW),40,30.3,USA,female,['Ride'],0.28450996
+Patrick Botz,44,27.1,USA,male,['Ride'],0.28381175
+KuyaBong 64,39,28.1,Qatar,male,['Run'],0.28369793
+Ivan Suarez,46,29.8,Canada,male,['Run'],0.28267783
+Alex Martin,36,29.1,USA,male,['Run'],0.28262186
+Linda Connaughton,32,31.1,United Kingdom,female,['Walk'],0.28241467
+Randy Sparks,44,29.5,USA,male,['Ride'],0.2821381
+Somodatta Sahu,25,22.9,India,female,['Ride'],0.2812364
+Kimberley Taylor,30,35.2,USA,female,['Camping'],0.27862018
+Steve Freeman,29,30.2,USA,male,['Ride'],0.27797318
+SARA MACKENZIE,34,29.8,United Kingdom,female,['Walk'],0.2772695
+Paige Langley,42,29.8,USA,female,['Run'],0.27710196
+Rahul Ramnath,38,13.0,Thailand,male,['Run'],0.276872
+John Mihaly IV,37,30.1,USA,male,['Ride'],0.27493763
+jz Runsthebay,39,29.9,USA,male,['Run'],0.27456254
+SRYuvraj Suryawanshi AIR 23259,35,27.7,India,male,['Ride'],0.272871
+Rui Barbosa,46,24.3,Portugal,male,['Hike'],0.2712271
+Jason Massey,35,29.7,USA,male,['Ride'],0.2710984
+Elm G,14,22.6,Philippines,male,['Run'],0.2710515
+Rebecca Martin,51,20.2,United Kingdom,female,['Run'],0.27104133
+Oliver Jahn,37,30.2,USA,male,['Ride'],0.27001312
+Greyson Kinsey,53,25.9,USA,male,['Run'],0.26967195
+Jordan Lee,37,29.6,USA,male,['Run'],0.269493
+Scott Schrader,44,30.1,USA,male,['Run'],0.26948237
+Leonette (Leo)       Ferebee-Johnson,39,29.9,USA,female,['Run'],0.26922175
+Daniel Bronstein,35,29.2,USA,male,['Run'],0.26886952
+jose luis boveda,42,35.8,Spain,male,['Walk'],0.26878196
+Cemohn  Sevier MTIR BGDB,43,30.6,USA,male,['Ride'],0.26767606
+IRONMAN RAHUL NALAWADE,35,26.7,India,male,['Ride'],0.26695842
+Alfons Ernst,34,23.3,Switzerland,male,['Hike'],0.26675674
+Emmett Brown,29,32.5,USA,male,['Ride'],0.26581764
+Jon  Crisan,41,18.8,United Kingdom,male,['Run'],0.26490724
+PEDRO NUQUES M.,30,28.9,USA,male,['Ride'],0.26466787
+Peter Adams,30,28.9,USA,male,['Ride'],0.26466787
+Paul Booth,48,20.6,United Kingdom,male,['Run'],0.26365536
+Harvey Feliciano,47,28.4,USA,male,['Run'],0.2633179
+Shane Plummer,47,28.9,USA,male,['Run'],0.2626387
+Ian Judd,33,21.8,United Kingdom,male,['Run'],0.26253507
+Ricky Bureau,35,29.4,USA,male,['Run'],0.26014325
+Francis Rivera,35,29.4,USA,male,['Run'],0.26014325
+Ivo Ivanov,43,31.1,USA,male,['Ride'],0.2593862
+Charles Vibert,46,32.8,United Kingdom,male,['Walk'],0.25924507
+Kaylie Lewis,41,30.6,USA,female,['Run'],0.25750607
+Guido Romero,17,29.7,Peru,male,['Ride'],0.25701
+Sean Reid,44,32.8,United Kingdom,male,['Walk'],0.2567444
+Anastasia Panchenko,33,29.0,USA,female,['Run'],0.25650397
+Wilmar Jaramillo,29,34.2,USA,male,['Ride'],0.2561633
+Emma Dutmers,45,30.4,USA,female,['Run'],0.25606182
+Ena Macpherson,46,29.7,Canada,female,['Run'],0.25589374
+Mangala Pai,18,25.0,India,female,['Ride'],0.25520873
+Olivier Derville,32,23.7,France,male,"['Run', 'Walk']",0.25496775
+Steven Williams,33,33.0,United Kingdom,male,['Walk'],0.25491995
+Kerstin Manns,38,21.9,Germany,female,['Run'],0.25444564
+Caitlin Kollins,48,29.1,USA,female,['Run'],0.25384346
+Katie Perkowski,48,28.9,USA,female,['Run'],0.2537165
+Kristen Gee,38,30.1,USA,female,['Run'],0.25173536
+Jeffrey Monaghan,41,30.9,USA,male,['Run'],0.24917787
+Dulci Dos Anjos,31,26.8,Brazil,female,"['Run', 'Walk']",0.24863598
+Nick Collison,38,30.3,USA,male,['Run'],0.24828918
+Jeremy Simmons,34,29.5,USA,male,['Run'],0.24710771
+Lizard Wizard,51,27.3,USA,male,['Run'],0.24578647
+Ng Jian Ming,46,27.4,Singapore,male,['Ride'],0.24560533
+LilyMo .,48,30.4,United Kingdom,female,['Walk'],0.24441533
+Fraser Stewart,34,32.5,United Kingdom,male,['Walk'],0.24434547
+Jimmie Vankerkhoven,41,25.9,Belgium,male,"['Run', 'Walk']",0.2442078
+Amanda Harris,51,27.4,USA,female,['Ride'],0.24418485
+masaki d5,47,31.7,Japan,male,['Ride'],0.24416628
+Landan Mintch,45,31.0,USA,male,['Run'],0.24297065
+jack evans,43,30.3,Austria,male,['Hike'],0.2424022
+Srvn Knnn Gurusmy,33,19.3,India,male,['Ride'],0.24235834
+Kim Blain,52,27.3,USA,female,['Ride'],0.24191055
+Melissa Willis,30,32.2,USA,female,['Ride'],0.2414088
+Neil Pecka,48,31.1,USA,male,['Run'],0.24124146
+Gabriela Alarcon,42,31.2,USA,female,['Run'],0.24108829
+Amanda Fairless,46,31.4,United Kingdom,female,['Walk'],0.24016382
+Suzanne Boughay,39,29.7,United Kingdom,female,['Hike'],0.23891297
+Gallego Sosa,21,23.3,Argentina,male,['Ride'],0.23876224
+Ken Saxton,49,31.2,USA,male,['Run'],0.23696785
+Karina Catrileo Vivallo,34,29.2,Chile,female,['Walk'],0.23675676
+Joaquim Vinyes Vilella,31,29.5,USA,male,['Run'],0.23639454
+Bryan Lacy,32,29.4,USA,male,['Run'],0.23597544
+Sarah Curran,42,31.9,United Kingdom,female,['Walk'],0.2357665
+Xavier Oldfield,34,32.9,United Kingdom,male,['Walk'],0.23486754
+Boe Claybourn,32,22.5,United Kingdom,male,['Run'],0.23410282
+Chip Dean,31,29.7,USA,male,['Run'],0.23269211
+Laura Ross,46,32.0,United Kingdom,female,['Walk'],0.23230512
+Tyler White,34,29.9,USA,male,['Run'],0.23079716
+Marcela Sajfr,50,30.8,USA,female,['Run'],0.22930796
+Loden Kohrman,30,33.1,USA,male,['Run'],0.22795302
+Hans Tischhauser,48,25.1,Switzerland,male,['Hike'],0.22764014
+Francis Robles,50,28.2,USA,male,['Run'],0.22746344
+Stephen McC,35,28.3,United Kingdom,male,"['Walk', 'Run']",0.2266443
+Per Ed,45,34.3,Sweden,male,['Walk'],0.22629265
+Annie Trotter,52,29.4,Australia,female,['Run'],0.22595872
+GILBERT I CYCLICS,33,22.2,India,male,['Ride'],0.22462972
+Paul Tabbert,50,22.9,Germany,male,['Run'],0.2243028
+Tyler Dicks,46,28.2,United Kingdom,male,['Hike'],0.22207148
+Elsab  Myburgh,38,24.5,RSA,male,['Run'],0.2213468
+Claudio Cocco,35,30.9,Switzerland,male,['Walk'],0.22124213
+Ghia Nabong,30,27.7,Philippines,female,['Run'],0.22106718
+Cameron Burton,35,31.1,New Zealand,male,['Run'],0.2199152
+Jason Smith,49,43.2,USA,male,['Walk'],0.2198562
+Evelyn Porter,32,30.6,USA,female,['Run'],0.21896951
+Charles Phelps,30,33.4,USA,male,['Ride'],0.21882994
+Marek Stanislawczyk,25,25.2,United Kingdom,male,['Ride'],0.2161798
+andy velez,36,31.3,USA,male,['Ride'],0.21426328
+Felix Rusby,36,17.0,United Kingdom,male,['Run'],0.21259864
+Phoebe Silberman,31,33.6,USA,female,['Run'],0.20769593
+Bobby Adams,35,31.3,USA,male,['Ride'],0.20654799
+Ccile Francey,51,22.1,Switzerland,female,"['Water Activities', 'Walk']",0.20608567
+declan jack,32,23.2,United Kingdom,male,['Run'],0.20541537
+miesha mulryan,36,30.9,USA,female,['Run'],0.2043478
+Sasha Benowitz,46,33.4,USA,female,['Ride'],0.20375575
+Martin Waldburger,41,19.4,Switzerland,male,['Run'],0.20069866
+Hang Pham,43,32.8,United Kingdom,female,['Walk'],0.20047346
+Clare Knighton,37,31.6,United Kingdom,female,['Walk'],0.20017529
+Juan Pablo Vargas,37,31.9,USA,male,['Ride'],0.19979936
+Lena Buccambuso,40,32.5,USA,female,['Ride'],0.19678275
+Mack K,36,31.9,USA,male,['Ride'],0.19247742
+Troy Whittle,43,30.2,Canada,male,['Ride'],0.19230251
+Escalo man,40,30.9,Spain,male,['Hike'],0.18939665
+Jen Lucas,44,33.3,United Kingdom,female,['Walk'],0.18749359
+Frdric Parise,42,22.5,France,male,['Hike'],0.18447925
+Mat Newton,38,33.4,United Kingdom,male,['Walk'],0.18444498
+SHELAR M.S.,30,19.4,India,male,['Ride'],0.18423246
+Eli Weir,44,34.2,United Kingdom,male,['Walk'],0.18274118
+Jennifer Barrera,36,25.2,Mexico,female,['Hike'],0.180857
+Brayden Sweene,48,34.3,USA,male,['Run'],0.17938751
+Jaedson Moreira de Oliveira,17,21.5,Brazil,male,['Run'],0.17832099
+William Holtman,33,31.3,USA,male,['Run'],0.17760508
+Jithin Pj,29,21.5,India,male,['Ride'],0.17659377
+HarchiveR 001,32,29.5,Nigeria,male,['Ride'],0.17616625
+Diego Galera,28,26.3,Brazil,male,['Run'],0.17606348
+Karolina Gyurovszka,45,21.1,Switzerland,female,['Run'],0.17480463
+Travis Gordon,47,34.2,USA,male,['Run'],0.17409815
+Ravi Chejarla,35,31.7,USA,male,['Run'],0.17348897
+Itay zrihen,35,29.1,Israel,male,['Run'],0.17281882
+Lesley Cleverley,40,32.7,United Kingdom,female,['Walk'],0.17233913
+Stefn rarinsson,30,27.5,Iceland,male,['Ride'],0.1710136
+Lucien Mermillon,30,31.2,France,male,['Run'],0.17070717
+David Cox,34,24.4,United Kingdom,male,['Run'],0.16970202
+Francesco Grieco,52,25.5,Italy,male,['Run'],0.16852577
+Jerome Lebrun,28,27.7,France,male,['Run'],0.16713731
+Guillermo Tormo Allueva,38,27.4,Spain,male,['Hike'],0.1671205
+Neil Hodgkinson,46,32.3,United Kingdom,male,['Hike'],0.16677919
+Alba Araque,29,29.3,Venezuela,female,['Ride'],0.16493432
+Michael Fining,47,32.3,United Kingdom,male,['Hike'],0.16349858
+Quentin Laurent,54,28.2,France,male,['Run'],0.16314743
+Joshua Mathias,36,32.8,USA,male,['Ride'],0.16302961
+Brittany Rodriguez,42,33.4,USA,female,['Run'],0.16232565
+Rob Jones,34,32.6,USA,male,['Ride'],0.15825467
+Alexandre Martins,53,25.2,France,male,['Run'],0.15700851
+Maxime Degon,51,29.7,France,male,['Run'],0.155551
+Wouter Campman,47,22.4,Netherlands,male,['Run'],0.15545377
+Alessandro Cavallo,61,22.0,Italy,male,['Ride'],0.1543623
+Isaac Sandoval,26,33.2,Chile,male,['Ride'],0.15410659
+Corredormaicansat Ir's,36,24.8,Spain,male,['Hike'],0.15398589
+Aco Mijatovic,47,24.8,Bosnia and Herzegovina,male,['Run'],0.1528441
+Chris Jackson,32,35.7,USA,male,['Run'],0.15277383
+Tamekia Washington,38,32.9,USA,female,['Run'],0.15256114
+Jess Chaffee,48,35.1,USA,male,['Run'],0.15235472
+Joseph Sarti,40,34.0,USA,male,['Ride'],0.15196982
+MD Rubayadur Rahman,25,21.0,Bangladesh,male,['Ride'],0.1518127
+Matt Clare,38,24.4,United Kingdom,male,['Run'],0.15170698
+Martin  Priss,48,29.1,France,male,['Run'],0.15158801
+Vanessa Murkve,32,35.2,USA,female,['Water Activities'],0.15142141
+Antonio Joves,45,34.5,USA,male,['Run'],0.15126891
+Elliott Blain,39,24.3,United Kingdom,male,['Run'],0.15081577
+George Adramerinas,45,35.8,Greece,male,['Run'],0.14960992
+Brendan Hurley,33,33.1,USA,male,['Run'],0.14795715
+Aden Bethlehem,35,25.9,United Kingdom,male,['Run'],0.14776814
+Liam Edwards,36,21.7,Ireland,male,['Walk'],0.14766863
+Kate Tapias,41,33.7,USA,female,['Run'],0.14744824
+Ali Azdad,47,29.4,France,male,['Run'],0.14724039
+Karin van Veldhoven,32,22.1,Switzerland,female,['Run'],0.14690992
+Taylor Hitt,38,33.1,USA,female,['Run'],0.14685136
+Alfredo Garca,15,26.1,Peru,male,['Ride'],0.14652982
+John Sadgrove,28,29.5,Italy,male,['Run'],0.14638478
+Jess Thomson,42,34.8,United Kingdom,male,['Walk'],0.14601377
+Chlo D'Age,42,33.8,United Kingdom,female,['Walk'],0.1460046
+Leonardo Coutio,16,27.4,Mexico,male,['Run'],0.14573362
+Maria Brookes,45,23.3,United Kingdom,female,['Run'],0.1454353
+Mike Cooper,42,24.1,United Kingdom,male,['Run'],0.14505547
+Joris Bonhomme,48,30.2,France,male,['Run'],0.14490904
+Terrie Smith,42,23.6,United Kingdom,female,['Run'],0.14463949
+Kalyl Andrade,46,20.5,Brazil,male,['Run'],0.14436518
+P Conk,33,33.7,USA,male,['Run'],0.14279304
+Alexa Rose,45,34.7,USA,female,['Run'],0.1426716
+Morgane Toullec,51,27.0,France,female,['Run'],0.14117181
+Joan de Dalmau,57,21.6,Spain,female,['Run'],0.14102493
+Bill Gilmore,34,33.0,USA,male,['Run'],0.1386048
+NEUSAFATIMA ULTRA,30,29.8,Brazil,female,['Run'],0.13855875
+Melissa  Kunthea,66,27.6,USA,female,['Ride'],0.13849217
+Helen Marshall,63,23.7,France,female,['Run'],0.13798031
+Matteo Siletto,51,18.2,Italy,male,['Ride'],0.1363201
+Darren Mellett,35,26.8,United Kingdom,male,['Run'],0.13612066
+Dani Costa ela.vailonge,34,28.2,Brazil,female,['Camping'],0.13539752
+David Volart,29,34.9,Spain,male,['Run'],0.1352859
+Laimis Verbliugevicius,42,30.7,Lithuania,male,['Run'],0.1349245
+Jack Eathorne,32,26.4,United Kingdom,male,['Run'],0.13468772
+Michelle Martin,49,19.2,United Kingdom,female,['Ride'],0.13421267
+"Chloe ""Slow-e"" Stalhood",52,36.3,USA,female,['Run'],0.13397977
+Domenico Tripodi Domenico,53,22.8,Italy,male,['Ride'],0.13382365
+Shane. McEwan,34,33.3,USA,male,['Run'],0.13318692
+Emeli Galvez,43,34.7,USA,female,['Run'],0.13168256
+Timmie L,33,35.4,USA,male,['Run'],0.13164112
+Charles McNew,36,33.5,USA,male,['Run'],0.12836385
+Ludo Kiezer,43,28.9,France,male,['Run'],0.12784404
+Patricia Huc,49,24.3,France,female,['Run'],0.12712921
+Florian Lemaitre,43,28.2,France,male,['Run'],0.12647714
+Oskar Fries,49,27.9,Germany,male,['Run'],0.12613873
+Simon Katranik,47,24.9,Slovenia,male,['Ride'],0.12588139
+Matthew Burton,40,22.1,United Kingdom,male,['Ride'],0.12511188
+Angelo Semeraro,55,23.8,Italy,male,['Ride'],0.124927
+Scott McKirdy,38,26.2,United Kingdom,male,['Run'],0.12478973
+Jrme Borde,54,33.9,France,male,['Run'],0.12418607
+Kevin Peace,37,26.8,United Kingdom,male,['Run'],0.123714745
+Dan Prettejohn,46,24.2,United Kingdom,male,['Run'],0.122863464
+Leonardo Sabatino,49,23.0,Italy,male,['Ride'],0.12157857
+Maximiliano Castellacci,49,23.0,Italy,male,['Ride'],0.12157857
+Louis Wuhrmann,42,28.0,France,male,['Run'],0.12147305
+Rikita Major,34,36.2,USA,female,['Run'],0.12114394
+Mathias Nyhuus,39,29.9,Denmark,male,['Run'],0.120544985
+Coralie Collet,48,23.6,France,female,['Run'],0.12018934
+Ivano Corsani,40,19.4,Italy,male,['Ride'],0.11983093
+Sandro Tomi,39,20.3,Italy,male,['Ride'],0.1193169
+Alessia Bornia,48,21.7,Italy,female,['Ride'],0.119027704
+Samuel Ropraz,48,23.8,Switzerland,male,['Run'],0.118329726
+Alex McCormick,29,28.2,United Kingdom,male,['Run'],0.1181566
+Luca Gorini,48,23.1,Italy,male,['Ride'],0.118036374
+Marco Facciani,49,23.3,Italy,male,['Ride'],0.117728956
+Cme Lecomte,49,19.2,France,female,['Run'],0.11720171
+Madeline Prater,41,34.9,USA,female,['Run'],0.11671534
+Callum Moore,39,26.3,United Kingdom,male,['Run'],0.1161915
+Sean Pan,35,21.4,New Zealand,male,['Run'],0.11484028
+Yann Aubert,41,33.1,France,male,['Run'],0.11413258
+Jacek K,33,22.7,United Kingdom,male,['Ride'],0.11394521
+Toby (Base building) MacAlister,34,31.4,United Kingdom,male,"['Run', 'Walk']",0.11371103
+Ren Salvador Jimnez a,14,32.8,Mexico,male,['Ride'],0.11361851
+Nicolas LEFEVRE,45,16.6,France,male,['Run'],0.11318015
+Neou Itier,45,16.7,France,male,['Run'],0.11265543
+Domenico Trotta,42,25.5,Italy,male,['Run'],0.112407036
+Ed King,43,25.0,United Kingdom,male,['Run'],0.11225945
+Philipp Griner,57,21.9,Switzerland,male,['Run'],0.11200938
+Edson Moura,30,29.9,Brazil,male,['Ride'],0.11143008
+TaVo Plazas,41,33.4,Colombia,male,['Run'],0.11031381
+Max Maxwell,47,30.4,Italy,male,['Camping'],0.11006523
+Damon Fan,39,34.9,USA,male,['Run'],0.10977285
+Mika Haigner MiK42195,45,22.6,France,male,['Run'],0.10904216
+Guillaume Lafosse,32,30.3,France,male,['Run'],0.108415954
+Neil S Pearce,53,21.6,United Kingdom,male,['Ride'],0.108264334
+Hana Azuma,42,24.8,United Kingdom,female,['Run'],0.1080687
+Corniaud73,38,30.5,France,male,['Run'],0.10772593
+Dea G-D,40,25.3,United Kingdom,female,['Run'],0.107630685
+Javier Irouleguy,28,38.4,Argentina,male,['Run'],0.10714057
+Michele Testini,61,25.2,Italy,female,['Ride'],0.107001275
+Viktor Pradel,40,26.8,France,male,['Run'],0.1062167
+Nelson Leite Chaves,30,28.9,Brazil,male,['Ride'],0.10611105
+Dejan Jug,40,34.5,Slovenia,male,['Ride'],0.10610806
+Rmi Mazabrard,45,24.0,France,female,['Run'],0.10565816
+Allan Mello,33,29.6,Brazil,male,['Run'],0.105590396
+math,38,30.9,France,male,['Run'],0.10518912
+MAURICIO JOSE MORALES PEREZ,35,34.1,Venezuela,male,['Ride'],0.10491572
+Mikal Armand,43,23.8,France,male,['Run'],0.10466583
+Matthias Buchner,45,32.3,Germany,male,['Run'],0.104542255
+Francisco Gonzlez,32,34.9,Mexico,male,['Ride'],0.10436442
+Jrn A.R. Alertsen,39,29.8,Norway,male,['Run'],0.103419565
+Just Eli A.,31,27.3,Mexico,male,['Run'],0.10302483
+Joel Clark,38,27.8,United Kingdom,male,['Run'],0.102994956
+Palmira Maciel,30,31.2,Brazil,female,['Ride'],0.102781005
+Manuel Ferrari,42,23.0,Italy,male,['Ride'],0.10252585
+Sterling Maples,28,27.4,RSA,male,['Ride'],0.10183411
+Daniel Ferreirinho,41,24.4,France,male,['Run'],0.10152651
+Hugo Dring,31,24.2,United Kingdom,male,['Ride'],0.09980419
+Andrei,45,30.4,Estonia,male,['Ride'],0.09952161
+Heather  Avul Running-Ready,38,27.2,United Kingdom,female,['Run'],0.098917514
+Lucas Lopes Del Rio,32,27.1,Brazil,male,['Run'],0.09884856
+Kevin Sewell,41,26.6,United Kingdom,male,['Run'],0.09849678
+Sebastian Janczyk        seaturtleonabike  sebix_75,33,23.6,Poland,male,['Ride'],0.09838376
+Tim Shufflebotham,49,37.7,United Kingdom,male,['Walk'],0.09819278
+Petrick Anemaat,43,26.0,Netherlands,male,['Run'],0.0980557
+Daniel Mrzek,43,22.2,Poland,male,['Ride'],0.097764745
+Grgory Trouv,31,28.8,France,male,['Run'],0.097477935
+Joanna Smolska,41,27.5,Poland,female,['Run'],0.09694966
+Roy Schelvis,42,25.4,Netherlands,male,['Run'],0.0966507
+Boris Garnier,36,29.4,France,male,['Run'],0.096462004
+Gemma Halliwell,42,22.7,United Kingdom,female,['Ride'],0.09559439
+Charleen Faure Wroe-street,41,31.8,RSA,female,['Run'],0.09529917
+Davy OG,42,22.3,France,male,['Run'],0.09512084
+Matej FUJS-IZIFIT10,44,29.8,Slovenia,male,['Ride'],0.09500953
+Dylan Li,37,28.2,United Kingdom,male,['Run'],0.094281174
+Ines Kemperle,37,28.3,France,female,['Run'],0.09418667
+Eddie Clarke solidarity,42,26.5,United Kingdom,male,['Run'],0.09360904
+Jeffrey Lin,40,35.9,USA,male,['Run'],0.0935607
+Carlos Dorantes,31,25.8,Mexico,male,['Run'],0.09337804
+Lucas Blondlot,38,33.8,France,male,['Run'],0.09333607
+mathias niels pont,36,27.3,France,male,['Run'],0.09294667
+Vincent Rafy,35,30.9,France,male,['Run'],0.09277307
+Christophe George,35,27.2,France,male,['Run'],0.0912137
+Alexandre Le Nouveau,30,30.7,United Kingdom,male,['Run'],0.09056397
+liv wise,53,24.6,United Kingdom,female,['Run'],0.09051262
+Harry McIlroy,40,27.8,United Kingdom,male,['Run'],0.08941612
+Silvio Barbosa,32,32.9,Brazil,male,['Ride'],0.08915653
+Kirill Babkin,42,28.0,Poland,male,['Run'],0.089095674
+Nikita Lachke,39,35.9,USA,female,['Run'],0.08895093
+Nickocado_skinny 69,35,36.8,USA,male,['Run'],0.0887464
+Fabio Perez Andres,43,20.7,Spain,male,['Run'],0.088199265
+Nic Griffin,32,27.5,France,male,['Run'],0.087481394
+Walter Mottes,49,25.4,Italy,male,['Ride'],0.086569965
+Mika BELYS,42,22.8,France,female,['Run'],0.086378425
+Adrin Ortiz,54,24.3,Spain,male,['Run'],0.085906014
+Elizandro Radavelli,30,26.5,Brazil,male,['Ride'],0.08588005
+Marcello Moreira,32,31.8,Brazil,male,['Ride'],0.08567959
+Chris Ramirez,28,25.4,Mexico,male,['Ride'],0.08553913
+Geoff Williamson,37,24.5,New Zealand,male,['Run'],0.08493763
+Angelo Oliva,29,30.1,France,male,['Ride'],0.08452736
+Rob Spreadbury,32,28.3,United Kingdom,male,['Run'],0.08362125
+Aurelio Pm,39,23.1,France,male,['Run'],0.08326902
+Justin Coley,43,26.9,United Kingdom,male,['Run'],0.08307299
+Luca Carton,41,23.9,Italy,male,['Ride'],0.08261212
+Emily Chapman,47,37.1,United Kingdom,female,['Walk'],0.08232458
+Carlos Torrealba Guevara,37,28.8,Peru,male,['Ride'],0.08224543
+ontra Volta,44,26.9,Bosnia and Herzegovina,female,['Ride'],0.08195164
+Aurelien Hong,38,23.5,France,male,['Run'],0.08062258
+MTB William Bicigrino,33,28.7,Brazil,male,['Ride'],0.08023885
+Aidan Pendlebury,27,27.9,Ireland,male,['Run'],0.08014736
+Su Marro,36,26.3,Guatemala,female,['Ride'],0.08004681
+Diego Rota,39,26.6,Italy,male,['Run'],0.07992012
+Lucy Ritchie,38,27.8,New Zealand,female,['Run'],0.07943595
+Eleanor Plummer,38,26.3,France,female,['Run'],0.07886501
+Jerome Gueniot,39,20.5,France,male,['Run'],0.07856066
+giovanni minali,42,24.4,Italy,male,['Ride'],0.078501225
+Michal Cgler,34,27.6,Slovakia,male,['Ride'],0.07794828
+Adriano Santos,39,22.0,Brazil,male,['Run'],0.07755321
+RODI ESPORTES,30,25.9,Brazil,male,['Ride'],0.07687843
+Alberto  Vecchi,41,24.3,Italy,male,['Ride'],0.07680226
+Thomas Bott,37,22.8,France,male,['Run'],0.07607478
+Sylvain Michau,37,21.1,France,male,['Run'],0.07596211
+Rainer Strobel,45,26.6,Germany,male,['Ride'],0.075885214
+Rob Sutherland,31,29.4,United Kingdom,male,['Run'],0.07548071
+Fabio Paiva,31,24.8,Brazil,male,['Run'],0.07543242
+. Burningmall,40,25.3,Germany,male,['Ride'],0.075352296
+Arsne VVTR,35,26.3,France,female,['Run'],0.07489612
+Ciri Sin,35,26.3,France,female,['Run'],0.07489612
+Harley Lima,35,30.2,Brazil,male,['Ride'],0.07462518
+Jean Torrens,39,24.0,France,female,['Run'],0.07382757
+izzy yeoman,41,37.2,USA,female,['Run'],0.073115714
+Piotr Marzec,36,29.4,Poland,male,['Run'],0.07241979
+Eddin Javier Sepulveda Lopez,27,24.5,Colombia,male,['Ride'],0.071545385
+camille desmartin,38,22.3,France,female,['Run'],0.07130991
+Francisco Ananias,47,22.5,Brazil,male,['Ride'],0.07101454
+Andrew Hogg,31,34.1,United Kingdom,male,['Run'],0.070745856
+Pitgoras Barros Barbosa,34,26.8,Brazil,male,['Run'],0.070472084
+Sarah Farley,46,26.4,United Kingdom,female,['Run'],0.07019615
+Michelgiuseppe Riondino,41,28.1,Italy,male,['Run'],0.069643214
+Martial Aveline,54,31.9,France,male,['Ride'],0.06963855
+Alejandro Medero,41,20.8,Mexico,male,['Run'],0.06936879
+Gianfranco Salerno,41,28.2,Italy,male,['Run'],0.068864115
+ALEXANDER VERGARA,37,32.4,Colombia,male,['Ride'],0.06855037
+Jonny Miesner,36,27.7,Austria,male,['Run'],0.06789123
+Miguel,57,26.9,Spain,male,['Run'],0.067780524
+Albert Vil,49,24.1,Spain,male,['Run'],0.06752723
+Gianmaria Lomazzi,47,29.7,Italy,male,['Run'],0.06688598
+Mirosaw Krcisz,38,28.5,Poland,male,['Ride'],0.06664154
+Pierre Patrone,50,31.3,France,male,['Ride'],0.066450946
+Matthias Casier,34,22.9,France,male,['Run'],0.0663809
+Tobias Heutschi,48,25.9,Switzerland,male,['Run'],0.06631763
+JC PEREZ,30,26.5,Colombia,male,['Ride'],0.06620427
+Juan gomez,32,23.3,Colombia,male,['Run'],0.06581639
+Miguel Angel Mendez,39,19.4,Colombia,male,['Ride'],0.06574467
+Pedro Valdiperes,39,23.3,Brazil,male,['Run'],0.06570906
+Marcos Severson,45,27.7,United Kingdom,male,['Run'],0.065228276
+Daniel Almciga,28,23.7,Colombia,male,['Ride'],0.06503456
+Lyn Smith,46,26.9,New Zealand,female,['Run'],0.06449145
+Eamon Dennehy,29,32.7,Ireland,male,['Run'],0.064392425
+Dw. obAyo.,35,30.0,Colombia,male,['Ride'],0.06438518
+Jeff Provence,49,31.7,France,male,['Ride'],0.06407111
+Toni de  Lisboa,37,30.2,Brazil,female,['Run'],0.06291638
+Daniele  Giovannini,45,25.2,Italy,female,['Ride'],0.06286396
+Derealisse Ramos,49,21.1,Portugal,female,['Ride'],0.062675595
+Rodrigo Vale,32,22.2,Brazil,male,['Run'],0.062421672
+Viktor B ( A-),42,26.4,Serbia,male,['Ride'],0.062106177
+Silvia Moschioni,28,26.1,Netherlands,female,['Ride'],0.061926894
+Jnatas Ferreira,46,33.5,Brazil,male,['Run'],0.06132648
+Stephane Buyssens,42,26.6,Belgium,male,['Run'],0.060731024
+Mah Trovero,35,22.5,France,female,['Run'],0.060713306
+alessio cortelazzi,35,33.6,Italy,male,['Run'],0.06035914
+George Penny,49,23.7,Netherlands,male,['Ride'],0.060007013
+Jorge A. Herrera L.,31,25.9,Mexico,male,['Ride'],0.059918657
+Xavi Ager,48,24.5,Spain,male,['Run'],0.059872244
+Xavier Cortes,51,22.3,Spain,male,['Ride'],0.05921126
+Edi Castro,44,17.0,Brazil,male,['Ride'],0.058530472
+Ismael Ventura,58,25.1,Spain,male,['Ride'],0.05831897
+Tito Tupinamb,29,21.6,Brazil,male,['Ride'],0.058165442
+Fiona Davis,42,34.9,Ireland,female,['Walk'],0.05785035
+Jnior KoM,44,34.2,Brazil,male,['Ride'],0.057472873
+Pascal Burgener,43,26.7,Switzerland,male,['Run'],0.057223395
+Fabian Rabl,49,29.6,Austria,male,['Run'],0.057028234
+Fabio Dias,45,26.0,Portugal,male,['Run'],0.056956723
+Arnaud Hrlimann,47,22.0,Switzerland,male,['Ride'],0.05666565
+James Hodge,31,31.2,United Kingdom,male,['Ride'],0.056630664
+PEDRO SANZ,48,24.9,Spain,male,['Run'],0.056114662
+Antoine Vi,37,31.4,France,male,['Ride'],0.05593909
+Claudio Oliveira,40,33.2,Brazil,male,['Ride'],0.05545759
+Nicolas Bigot,39,29.6,France,male,['Ride'],0.055443976
+Andres Rivero,45,29.0,United Kingdom,male,['Run'],0.055370215
+Philip E.C. Schdler,34,21.8,Switzerland,male,['Ride'],0.055315834
+'Arturo Patraca',31,23.5,Mexico,female,['Run'],0.05512356
+Tho Jarrossay,46,26.0,France,male,['Ride'],0.055044983
+Ismael Bataller,45,24.0,Spain,male,['Run'],0.05498062
+Piter Kiel  PSZCZYNA,41,29.5,Poland,male,['Ride'],0.054882135
+Marek Pavliko,50,30.0,Slovakia,male,['Run'],0.054458145
+Martin Hall,42,25.9,United Kingdom,male,['Ride'],0.054264426
+Josep Garcia,58,25.5,Spain,male,['Ride'],0.054148752
+Schmali 77 J,50,29.5,Germany,male,['Ride'],0.054037876
+Mickael Poleya,55,19.4,France,male,['Ride'],0.054019656
+Renato Otto,30,24.0,Brazil,male,['Ride'],0.053799145
+Rob Smeele,43,23.0,Switzerland,male,['Ride'],0.053401835
+Mateusz Stefaniak,42,30.6,Poland,male,['Run'],0.053228073
+Diana Alvarez,45,39.6,USA,female,['Run'],0.052534867
+Dariusz Waszkiewicz,45,28.7,Poland,male,['Ride'],0.052505117
+HELDER FERREIRA,48,16.2,Portugal,male,['Ride'],0.052313596
+Robson Monteiro,36,25.2,Brazil,male,['Run'],0.05219545
+Johan Karl Radtke,39,26.8,Brazil,male,['Run'],0.05203808
+ndrea Silv,40,22.1,Colombia,female,['Ride'],0.05175457
+Anthony Delorme,31,28.9,France,male,['Ride'],0.051182725
+Angelita Vasconcelos,35,23.5,Brazil,female,['Run'],0.050340306
+Doraemodoraimon Doraemo,43,33.0,Italy,male,['Run'],0.049070965
+Divininha Silva,39,25.6,Brazil,female,['Run'],0.048215408
+Rock And Roll,47,27.9,Spain,male,['Run'],0.048186895
+Uri Soldevila,47,28.5,Spain,male,['Run'],0.048100885
+Rodiney Dias de Oliveira Oliveira,42,23.7,Brazil,male,['Ride'],0.048059758
+Louis Vrn,50,23.2,France,male,['Ride'],0.04769766
+scar Torruella,30,21.2,Spain,male,['Run'],0.047620233
+Pere Colomer,46,25.3,Spain,male,['Run'],0.047493387
+Timoteo Carvalho,40,22.8,Brazil,male,['Ride'],0.047278937
+Jean Pierre,37,23.1,Peru,female,['Ride'],0.047232673
+Fede Sbelli,42,31.9,Italy,male,['Run'],0.047170114
+Cristiano Luscardo,40,36.6,Italy,male,['Run'],0.04703015
+Lucy Pocock,41,26.4,United Kingdom,female,['Ride'],0.04694931
+Giovanni Fortunati,38,26.6,Italy,male,['Ride'],0.04665354
+Nil Congost Sabater,46,27.1,Spain,male,['Run'],0.046529185
+Joan Pericon,46,22.0,Spain,male,['Ride'],0.046340093
+PREC SALGUES,34,20.8,Brazil,male,['Ride'],0.046227418
+Filip Pulpix,47,29.0,Poland,male,['Ride'],0.04610526
+Alonso N L,39,27.8,Costa Rica,male,['Run'],0.045946725
+Matteo Scintu,58,34.2,Italy,male,['Run'],0.045134038
+Sergio  Garca Alonso,45,25.3,Spain,male,['Run'],0.04506018
+Tristan Warren,53,28.1,United Kingdom,male,['Run'],0.044982683
+Jonathan Bradshaw,44,26.6,United Kingdom,male,['Ride'],0.04493019
+Douglas Cortez,36,27.4,Brazil,male,['Ride'],0.044844985
+David Gonzlez,28,22.1,Colombia,male,['Ride'],0.04482646
+Dean Tucker,46,30.3,United Kingdom,male,['Run'],0.044773184
+Deguigne Patrick,47,24.9,France,female,['Ride'],0.044278022
+Danilo BiciKletera                              Parceros Guavio,31,23.6,Colombia,male,['Ride'],0.04427739
+Michel Bertschi,48,27.4,Switzerland,male,['Run'],0.04421962
+Carina Gavazzi,43,32.4,Portugal,female,['Run'],0.043985162
+Bruno Carvalheiro,44,16.8,Portugal,male,['Ride'],0.04394095
+Philippe Ardouin,47,24.1,France,male,['Ride'],0.043865763
+Eduardo Mejia,34,26.7,Mexico,male,['Ride'],0.043797813
+Stewart White,48,29.8,United Kingdom,male,['Run'],0.04331465
+Aline Spinelli,54,19.9,France,female,['Ride'],0.04330828
+Armin  Meier (ACTYVO),46,25.4,Switzerland,male,['Ride'],0.043217227
+Jos Miguel Godnez Pinel,44,28.6,Spain,male,['Run'],0.042974494
+Pedro Rodrigues,36,26.0,Portugal,male,['Run'],0.042819947
+Harry Clarkson-Bennett,43,31.1,United Kingdom,male,['Run'],0.042580426
+MarcoFit Monaco,44,24.6,Italy,male,"['Run', 'Ride']",0.04254997
+Cristian Bonifacini,56,31.2,Italy,male,['Ride'],0.042489737
+Paul Perkins,35,29.2,United Kingdom,male,['Ride'],0.04212671
+Agnieszka Gorzelana,49,29.3,United Kingdom,female,['Run'],0.042108517
+Jeferson Standke,38,27.1,Brazil,male,['Ride'],0.041770637
+FRANCI MANU Cazalilla Rivero,53,24.9,Spain,female,['Ride'],0.04176732
+Marc Q,56,27.0,Spain,male,['Ride'],0.04170123
+Jamie White,43,30.6,United Kingdom,female,['Run'],0.04160854
+Leidy Nataly Pea,39,25.8,Colombia,female,['Ride'],0.041360985
+Rafael Caldeira,44,27.5,Brazil,male,['Ride'],0.04124429
+Carolina Maci Serra,38,17.5,Spain,female,['Run'],0.041180644
+Artur Pupka,40,31.0,Poland,male,['Ride'],0.041158892
+Marco Maiorano,62,31.3,Italy,male,['Ride'],0.040808074
+Dan Mc Riffe,53,25.7,Spain,male,['Ride'],0.040675003
+Cristian Cucco,57,35.2,Italy,male,['Run'],0.040438388
+Pierpaolo Fantuzzi,38,28.6,Italy,male,['Ride'],0.040192224
+Marcos  Pardo Garcia,42,13.1,Spain,male,['Run'],0.040063273
+Dennis Javien,42,27.5,Spain,male,['Run'],0.039991178
+Scott Campbell,35,29.5,United Kingdom,male,['Ride'],0.03956767
+Agostinho Aranega   (A),33,24.6,Brazil,male,['Ride'],0.039552543
+Cairbar Melero B,35,25.8,Brazil,male,['Ride'],0.039521147
+Battumur Dorjpalam,40,31.9,Ireland,male,['Hike'],0.039495714
+Luc Poll,35,28.5,Belgium,male,['Run'],0.039449107
+Fred Lamart,33,27.2,France,male,['Ride'],0.03942436
+Emily Barber,47,30.7,United Kingdom,female,['Run'],0.03930048
+Roberto Farci,36,30.9,Italy,male,['Ride'],0.03903763
+Zbigniew  El Polaco,44,30.3,Spain,male,['Run'],0.038472287
+Sean Cunningham,48,26.7,United Kingdom,male,['Ride'],0.038047515
+TEKKO OLLIE Guimares,39,27.5,Brazil,female,['Ride'],0.038036548
+Jaume Gal,41,21.1,Spain,male,['Ride'],0.037880417
+Puquinha GT,34,25.9,Brazil,female,['Ride'],0.03786952
+Andrea Violetti,44,37.8,Italy,female,['Run'],0.037641414
+Agus Collado,49,24.7,Spain,male,['Ride'],0.037615925
+Michael Kilimann,40,33.8,Germany,male,['Ride'],0.037435945
+Roberto Ortenzi,45,29.9,Italy,male,['Ride'],0.037330177
+Jordi Coll,40,26.2,Spain,male,['Run'],0.03722928
+Daniel Metzler,32,27.7,Switzerland,male,['Run'],0.03709512
+JOS TADEU CORDEIRO,36,25.3,Brazil,male,['Ride'],0.036899015
+ula fecko,51,30.0,Sweden,female,['Ride'],0.03672634
+Arnaud Boesch,31,27.0,France,male,['Water Activities'],0.03641641
+Oliver Dominguez Gonzalez,40,30.1,Spain,male,['Run'],0.036342975
+Andre Gusman,38,16.0,Brazil,male,['Ride'],0.036233485
+Pierre Fouquet - Chez Octave,35,26.0,France,male,['Ride'],0.03605531
+Paul Travers,49,27.0,United Kingdom,male,['Ride'],0.035891544
+Jess Pea Marco,49,32.2,Spain,male,['Run'],0.035813987
+Tomeu Barcelo Sastre,47,31.8,Spain,male,['Run'],0.03568126
+Rogrio MTB  SPEED  MUSCULAO  Instagram bike.83ms,36,24.9,Brazil,male,['Ride'],0.03549118
+Nigel Morris,34,31.3,United Kingdom,male,['Ride'],0.034833234
+Rob Reinecke,48,26.6,Switzerland,male,['Ride'],0.034548566
+jose Miguel lopez,47,32.1,Spain,male,['Run'],0.034548104
+Antonio Guilln,49,25.3,Spain,male,['Ride'],0.03448525
+Yannick Fortin,45,22.0,France,male,['Ride'],0.034452684
+Emmanuele Taito,44,30.9,Italy,male,['Ride'],0.03412916
+Prinsesse_av_fjellene  .,47,30.8,Spain,female,['Run'],0.03405319
+Antonio  H,44,22.7,France,male,['Ride'],0.03386896
+Lauren Aldridge,32,33.1,United Kingdom,female,['Ride'],0.03344676
+Alexis BOSSARD,43,23.8,France,female,['Ride'],0.033438146
+Alex Williams,37,31.0,United Kingdom,male,['Run'],0.033178937
+Sergio Gonzlez,40,32.9,Spain,male,['Run'],0.03307352
+Rosa Prez,37,26.6,Spain,female,['Run'],0.033019654
+Stphane Biancucci,41,23.2,France,male,['Water Activities'],0.032790225
+Bruno Mathiot,41,23.9,France,male,['Ride'],0.032713585
+David Brugat,35,25.3,Spain,male,['Run'],0.032538038
+E15WaheedProductions,36,31.2,United Kingdom,male,['Run'],0.032528315
+Tinguaro Ramos Quintero,32,24.1,Spain,male,['Run'],0.03200179
+Miguel A O Z.,35,24.2,Mexico,male,['Ride'],0.03168501
+Molly Walsh,39,39.6,Ireland,female,['Walk'],0.03163702
+Scarlett Alexandra,53,30.3,United Kingdom,female,['Run'],0.03162509
+Alfio Matias Tezak,29,29.6,Argentina,male,['Ride'],0.031618167
+Miquel Mayol,47,25.6,Spain,male,['Ride'],0.03152291
+Yohann Selvay,41,23.7,France,male,['Ride'],0.031358987
+Tho Farjeaudoux,41,23.5,France,male,['Ride'],0.030847173
+Llus Toms,46,28.6,Spain,male,['Ride'],0.0300715
+Robbie Hudson,37,31.4,United Kingdom,male,['Run'],0.029563958
+Marc Sabater,36,19.3,Spain,male,['Ride'],0.029261943
+David Herranz,45,25.9,Spain,male,['Ride'],0.029185886
+Martin de la Torre,41,23.2,Mexico,male,['Ride'],0.029134372
+Gerard Muela,45,26.9,Spain,male,['Ride'],0.029097397
+Alexis  Mathieu,47,28.6,Switzerland,female,['Run'],0.029021759
+Hlias Cattin,50,29.0,Switzerland,male,['Run'],0.028922431
+Jacco Van De B,37,34.5,Netherlands,male,['Run'],0.028744223
+Jules Pillon,36,24.0,France,male,['Ride'],0.028149728
+Eduardo FS,41,32.3,Spain,male,['Ride'],0.028069012
+Nicola Checchin,40,32.3,Italy,female,['Ride'],0.027325114
+Daniel Fornos,42,25.6,Spain,male,"['Ride', 'Ride']",0.02605196
+Jordi Toms,37,29.2,Spain,male,['Ride'],0.025489252
+Isaac Graboleda,39,23.4,Spain,male,['Ride'],0.025364392
+Cyklokot Kotkowski,34,35.5,Poland,male,['Ride'],0.025114486
+Xavi Palau,40,29.5,Spain,male,['Ride'],0.02510855
+Pierre Rolland de 2011,38,28.5,Spain,male,['Ride'],0.0248957
+Emily Harvey,35,30.8,United Kingdom,female,['Ride'],0.024759132
+Josep Gras Vives,43,30.7,Spain,male,['Ride'],0.02463262
+Sara Bruggmann,40,29.4,Switzerland,female,['Run'],0.024474354
+Sarah Almond,49,32.1,United Kingdom,female,['Ride'],0.02427752
+Lacso Katona,36,26.4,Costa Rica,female,['Ride'],0.024193952
+Michael Ribler,39,29.9,Switzerland,male,['Ride'],0.023939818
+RAUL SAGUE MARTINEZ,35,30.5,Spain,male,['Ride'],0.023847574
+Hamish Armitt,38,32.4,United Kingdom,male,['Ride'],0.023352455
+Charlie Tymon,29,26.0,Argentina,male,['Run'],0.022988094
+Jacob Wells,54,30.6,Switzerland,male,['Run'],0.021840906
+Xiaoyang Wang,53,32.0,United Kingdom,male,['Ride'],0.02140214
+Tobal Salord Torrent,32,21.2,Spain,male,['Ride'],0.021343056
+Iris Vermetten,43,20.2,Belgium,female,['Ride'],0.021095868
+Roland PEREZ,36,25.9,Spain,male,['Ride'],0.020821048
+Yeray Santana rodriguez,36,33.4,Spain,male,['Ride'],0.019583436
+Kamil Naak,37,24.4,Czechia,male,['Walk'],0.018466672
+Jlio Csar,36,27.1,Brazil,male,"['Run', 'Ride']",0.018282054
+Carlos Cabello- Nutrikom Svcc Team,39,35.1,Spain,male,['Ride'],0.016789159
+Maki Vandormael,34,29.2,Belgium,female,['Ride'],0.014389874
+Alejandro Gabriel Iovane,31,26.5,Argentina,male,['Run'],0.013237538
+Miroslav Ruzicka,43,26.1,Czechia,male,['Walk'],0.013143606
+Daisy parry,39,33.6,United Kingdom,female,['Run'],0.013035567
+Xavier Currius,41,38.1,Spain,male,['Ride'],0.0124748815
+Hernn Di Croce,30,27.0,Argentina,female,['Ride'],0.012168853
+Adrien Fauth,45,32.4,Ireland,male,['Run'],0.007512593
+Gonzalo Agustn Rodrguez,40,27.7,Argentina,male,['Run'],0.0067102322
+Cheo Javi Gareca,29,19.9,Argentina,male,['Ride'],0.006420487
+Natalia Morales,34,27.7,Argentina,female,['Ride'],0.006384094
+Guillermo Panozzo,32,25.3,Argentina,male,['Ride'],0.0050399476
+Gary Zabala,30,23.5,Argentina,male,['Ride'],0.004963764
+Mariano .dip,38,28.5,Argentina,male,['Ride'],0.0048621707
+Jana Kistkov,37,29.3,Czechia,female,"['Walk', 'Ride']",0.0046833805
+Juan Pablo mattiazzi,41,26.9,Argentina,male,['Ride'],0.00437188
+Juan Carlos  PATAGONIA,35,22.2,Argentina,male,['Ride'],0.0037090657
